@@ -1,0 +1,6 @@
+[13-Nov-2016 03:15:18 America/New_York] PHP Warning:  file_get_contents(): Couldn't resolve host name in /home/asicvooj/public_html/includes/ip_tracker.php on line 15
+[13-Nov-2016 03:15:18 America/New_York] PHP Warning:  file_get_contents(http://api.hostip.info/get_html.php?ip=91.72.218.70): failed to open stream: operation failed in /home/asicvooj/public_html/includes/ip_tracker.php on line 15
+[13-Nov-2016 03:15:22 America/New_York] PHP Warning:  file_get_contents(): Couldn't resolve host name in /home/asicvooj/public_html/includes/ip_tracker.php on line 15
+[13-Nov-2016 03:15:22 America/New_York] PHP Warning:  file_get_contents(http://api.hostip.info/get_html.php?ip=91.72.218.70): failed to open stream: operation failed in /home/asicvooj/public_html/includes/ip_tracker.php on line 15
+[13-Nov-2016 03:16:27 America/New_York] PHP Warning:  file_get_contents(): Couldn't resolve host name in /home/asicvooj/public_html/includes/ip_tracker.php on line 15
+[13-Nov-2016 03:16:27 America/New_York] PHP Warning:  file_get_contents(http://api.hostip.info/get_html.php?ip=91.72.218.70): failed to open stream: operation failed in /home/asicvooj/public_html/includes/ip_tracker.php on line 15
